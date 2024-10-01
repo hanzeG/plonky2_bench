@@ -1,0 +1,9 @@
+workspace = { members = [ "gmimc","monolith", "poseidon", "poseidon2"] }
+[package]
+name = "plonky2_bench"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+plonky2_monolith = "0.1.0"
+plonky2 = { version = "0.1.4", default-features = true }
