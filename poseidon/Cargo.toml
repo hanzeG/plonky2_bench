@@ -1,0 +1,9 @@
+[package]
+name = "plonky2_bench_poseidon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+plonky2 = { version = "0.1.4", default-features = true }
+log = "0.4.14"
+env_logger = "0.10.0"
