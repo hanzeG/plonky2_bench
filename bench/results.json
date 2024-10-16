@@ -1,0 +1,50 @@
+{
+    "posiedon": {
+        "prove": {
+            "user_time": "0.016",
+            "max_resident_size": "3522560"
+        }
+    },
+    "posiedon2": {
+        "prove": {
+            "user_time": "0.005",
+            "max_resident_size": "3571712"
+        }
+    },
+    "monolith": {
+        "prove": {
+            "user_time": "0.007",
+            "max_resident_size": "3571712"
+        }
+    },
+    "griffin": {
+        "prove": {
+            "user_time": "0.040",
+            "max_resident_size": "18857984"
+        }
+    },
+    "arion": {
+        "prove": {
+            "user_time": "0.056",
+            "max_resident_size": "32358400"
+        }
+    },
+    "anemoi": {
+        "prove": {
+            "user_time": "0.025",
+            "max_resident_size": "18939904"
+        }
+    },
+    "mimc": {
+        "prove": {
+            "user_time": "0.023",
+            "max_resident_size": "7503872"
+        }
+    },
+    "rescue_prime": {
+        "prove": {
+            "user_time": "0.031",
+            "max_resident_size": "3670016"
+        }
+    }
+}

@@ -24,10 +24,10 @@ fn main() -> Result<(), Box<dyn Error>> {
     }
 
     // Griffin Hash
-    let output = Griffin::griffin_sponge::<GoldilocksField, 4>(input.clone());
-    for i in 0..output.len() {
-        println!("Output {}: {}", i, output[i]);
-    }
+    // let output = Griffin::griffin_sponge::<GoldilocksField, 4>(input.clone());
+    // for i in 0..output.len() {
+    //     println!("Output {}: {}", i, output[i]);
+    // }
 
     let data;
     let pw;
