@@ -3,7 +3,7 @@ workspace = { members = [
     "monolith",
     "poseidon",
     "poseidon2",
-    "griffin",
+    "griffin", "anemoi", "mimc", "rescue_prime", "arion",
 ] }
 [package]
 name = "plonky2_bench"

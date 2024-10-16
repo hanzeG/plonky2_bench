@@ -637,6 +637,26 @@ name = "plonky2_bench"
 version = "0.1.0"
 
 [[package]]
+name = "plonky2_bench_anemoi"
+version = "0.1.0"
+dependencies = [
+ "env_logger 0.10.2",
+ "log",
+ "plonky2 0.1.4",
+ "zk-lib",
+]
+
+[[package]]
+name = "plonky2_bench_arion"
+version = "0.1.0"
+dependencies = [
+ "env_logger 0.10.2",
+ "log",
+ "plonky2 0.1.4",
+ "zk-lib",
+]
+
+[[package]]
 name = "plonky2_bench_gmimc"
 version = "0.1.0"
 dependencies = [
@@ -647,6 +667,16 @@ dependencies = [
 
 [[package]]
 name = "plonky2_bench_griffin"
+version = "0.1.0"
+dependencies = [
+ "env_logger 0.10.2",
+ "log",
+ "plonky2 0.1.4",
+ "zk-lib",
+]
+
+[[package]]
+name = "plonky2_bench_mimc"
 version = "0.1.0"
 dependencies = [
  "env_logger 0.10.2",
@@ -683,6 +713,16 @@ dependencies = [
  "plonky2 0.2.2",
  "plonky2_field 0.2.2",
  "plonky2_poseidon2",
+]
+
+[[package]]
+name = "plonky2_bench_rescue_prime"
+version = "0.1.0"
+dependencies = [
+ "env_logger 0.10.2",
+ "log",
+ "plonky2 0.1.4",
+ "zk-lib",
 ]
 
 [[package]]
